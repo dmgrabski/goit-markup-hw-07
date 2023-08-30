@@ -506,6 +506,7 @@ a {
 
 .work {
   padding-top: 0px;
+  padding-bottom: 100px;
 }
 
 @media screen and (max-width: 1199px) {
